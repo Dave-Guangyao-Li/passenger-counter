@@ -1,4 +1,4 @@
-# co2ca4f66a04f172f24b72176
+# Counter App
 
 ## About Scrimba
 
